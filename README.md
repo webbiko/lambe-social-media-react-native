@@ -25,5 +25,6 @@ In order to run the project in development mode please execute the following ste
 ## Remarks
 
 This project will not be as complex as a real social media but it contains feature like login, logout, feed, post and edit a post, comment.
+The project is not finished yet but it is on developing mode.
 
 ---
